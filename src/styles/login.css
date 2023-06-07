@@ -1,0 +1,30 @@
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-title {
+  font-size: 2em;
+}
+
+.login-button {
+  margin: 2em;
+  padding: 1em;
+  width: 50%;
+  align-self: center;
+  cursor: pointer;
+}
+
+.login-label {
+  margin: 1em;
+  display: flex;
+  align-items: center;
+}
+
+.login-text {
+  flex: 1 0 auto;
+}
+
+.login-input {
+  margin: 1em;
+}
